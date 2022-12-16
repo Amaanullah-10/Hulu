@@ -3,7 +3,7 @@
 ![app1](https://user-images.githubusercontent.com/72704839/208149805-0b752cfb-664b-4c1e-a359-81f1329de689.PNG)
 
 
-Basically in here we fetch all the details of this app by using tmdb api which is the backend process and in order to showcase that to clients from the backend we use NEXT JS which is a react framework for production which is like crazy for easy coding and deployment and yeah clone and the code to get a view of what i am trying to convey. 
+Basically in here we fetch all the details of this app by using tmdb api which is the backend process and in order to showcase that to clients from the backend we use NEXT JS which is a react framework for production which is like crazy for easy coding and deployment and yeah clone and run the code to get a view of what i am trying to convey. 
 
 Any doubts
 
